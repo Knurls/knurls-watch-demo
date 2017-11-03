@@ -6,13 +6,21 @@ To that end, we have attempted to capture - at a high level - those **participan
 **Participants** | *Entities that act on **Assets** through **Events** or **Transactions***
 
 `Manufacturer` *the originator of the **Asset** in question*
+
 `Retailer` *the authorized first-party seller of the **Asset***
+
 `Customer` *the buyer of the **Asset** from the `Retailer`*
+
 `Appraiser` *a third-party value assessor who is neither the `Manufacturer`, `Retailer`,or `Customer`
+
 `Servicer` *a third-party service provider who initiates a `Service` **Event** on an **Asset***
+
 `Customizer` *a third-party service provider who initiates a `Modification` **Event** on an **Asset***
+
 `Auctioneer` *a third-party facilitator of a **Transaction** of an **Asset** who is not acting as a `Retailer`*
+
 `Media` *a third-party who creates content about any other entity in the ecosystem*
+
 `Insurer` *a third-party who insures the value of an **Asset** for another **Participant***
 
 **Assets** | *Individual elements that impacted by **Participants** through **Events** or **Transactions***
